@@ -1,0 +1,113 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+color: peru;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+flex-direction: row-reverse;
+display: flex;
+justify-content: center;
+}
+#navbar {background-color: rgb(127, 242, 255);
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: flex-start;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items: flex-end;
+    align-items: center;
+}
+#navbar a{
+    color: rgb(3, 15, 14);
+    height: 30px;
+    width: 10px;
+    font-size: 30px;
+    text-decoration: double;
+}
+#navbar a:hover {
+    color: darkgoldenrod;
+    font-size: 35px;
+}
+h3{
+    color: darkorange;
+}
+.home-image {
+    width: 500px;
+}
+k{
+    color: darkorange;
+    width: 50px;
+}
+h4{
+   color: black;
+    background-color: darkkhaki;
+    margin-right: 0cap;
+    kerning: 0cqh;
+    
+    
+}
+
+#nabbar c:hover {
+
+}
+
+P{
+    color: azure;
+}
+H2{
+    color: darkorange;
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+display: flex;
+}
+h2 {
+    text-align: center;
+}
+
+CENTER {
+    
+    color: darkgoldenrod;
+}
+
+#LINE {
+    background-color: rgb(0, 202, 125);
+    font-family: ;
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: flex-start;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items: flex-end;
+    align-items: center;
+    
+
+}
+
+#LINE A:hover {
+    color: darkorange;
+    height: 30px;
+}
+
+#VAVEBARC a{
+    background-color: rgb(0, 255, 128);
+    
+}
+#VAVEBARC a:hover{
+    color: darkcyan;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: larger;
+   background-color: black;
+   font-size: 35px;
+}
